@@ -1,0 +1,79 @@
+---
+title: "INFO 523: Data Mining & Discovery"
+subtitle: "Dr. Greg Chism"
+execute:
+  freeze: false
+editor_options: 
+  chunk_output_type: console
+---
+
+This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+gs4_deauth()
+d <- read_sheet("https://docs.google.com/spreadsheets/d/11tb2jW7HlPdS2nSWaUBaJrUZQ-7ljlqasDmHtXBSwqM/edit?usp=sharing")
+```
+
+```{r}
+#| echo: false
+
+d |>
+  mutate(
+    date = as.Date(date)
+  ) |>
+  gt() |>
+  fmt_date(date, date_style = 31) |>
+  sub_missing(columns = c(week, what, topic, prepare, due), missing_text = "") |>
+  cols_align(
+    align = "center", 
+    columns = c(week)
+    ) |>
+  cols_align(
+    align = "right", 
+    columns = c(date)
+    ) |>
+  cols_align(
+    align = "left", 
+    columns = c(what, topic, prepare, due)
+    ) |>
+  tab_style(
+    style = cell_borders(
+      sides = "right",
+      color = "#D3D3D3",
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = c(date, topic, prepare)
+    )
+  ) |>
+  fmt_markdown(
+    columns = c(topic, prepare, due)
+  ) |>
+  cols_width(
+    week ~ px(30),
+    date ~ px(200), 
+    due ~ px(150),
+    topic ~ px(400),
+    topic ~ px(300),
+    due ~ px(200)
+  ) |>
+  cols_label(
+    what = "",
+    week = "Week",
+    date = "Date", 
+    due = "Due",
+    topic = "Topic",
+    prepare = "Prepare",
+    due = "Due"
+  ) |>
+  tab_options(
+    table.font.names = "Raleway",
+  )
+```

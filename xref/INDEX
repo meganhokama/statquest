@@ -1,0 +1,36 @@
+{
+  "computing/computing-access.qmd": {
+    "computing-access.html": "782425e4"
+  },
+  "computing/computing-cheatsheets.qmd": {
+    "computing-cheatsheets.html": "98d30c63"
+  },
+  "computing/computing-git.qmd": {
+    "computing-git.html": "c3f7bca4"
+  },
+  "computing/computing-troubleshooting.qmd": {
+    "computing-troubleshooting.html": "25cdc705"
+  },
+  "course-faq.qmd": {
+    "course-faq.html": "b3c42852"
+  },
+  "course-links.qmd": {
+    "course-links.html": "9a40357b"
+  },
+  "course-overview.qmd": {
+    "course-overview.html": "cb726cee"
+  },
+  "course-support.qmd": {
+    "course-support.html": "a708c038"
+  },
+  "course-syllabus.qmd": {
+    "course-syllabus.html": "6ab20f52",
+    "course-syllabus.tex": "c9d2fcab"
+  },
+  "course-team.qmd": {
+    "course-team.html": "e6d7c3c4"
+  },
+  "index.qmd": {
+    "index.html": "2a5ccb5c"
+  }
+}
