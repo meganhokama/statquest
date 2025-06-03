@@ -1,0 +1,321 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "INFO 523: Data Mining & Discovery",
+    "section": "",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\nWeek\nDate\n\nTopic\nPrepare\nDue\n\n\n\n\n1\nWed, Aug 23\nLec 0\nWelcome\n\n\n\n\n\n\n2\nWed, Aug 30\nLec 1\nIntroduction to Data Mining  Advanced R + GitHub\n📚 Data mining conceptual - Chp 1\n\n\n\n\n3\nWed, Sep 6\nLec 2\nKnow your Data + Preprocessing\n📚 Data mining conceptual - Chp 2, all except data viz  📃 Proprocessing with Recipes\n📝 Exercise 1: turn in either Intro to R Tutorial  OR  Intro to Python Tutorial + Intro to Pandas & Numpy\n\n\n4\nWed, Sep 13\nLec 3\nPreprocessing II + Data Viz I\n📚 Data mining conceptual - Chp 2, data viz\n\n\n\n\n\nFri, Sep 15\n\n\n\n\n\n\n📝 HW 1: turn in either R Exercise 1  OR  Python Exercise 1  Extra Credit : Intro to Git/GitHub\n\n\n5\nWed, Sep 20\nLec 4\nExploratory Data Analysis\n📚 ggplot2-book - Chp 5  📃 Exploratory Data Analysis In R  📃 Exploratory Data Analysis In Python\n\n\n\n\n6\nWed, Sep 27\nLec 5\nClassification I\n📚 Data mining conceptual - Chp 6.1, 6.2, 6.4-6.6\n\n\n\n\n\nMon, Oct 2\n\n\n\n\n\n\n📝 R/Python Exercise 2\n\n\n7\nWed, Oct 4\nLec 6\nClassification II + Model Evaluation\n📚 Data mining conceptual - Chp 6.7, 7.1-7.5\n\n\n\n\n\nFri, Oct 6\n\n\n\n\n\n\n📝 HW 2\n\n\n8\nWed, Oct 11\nLec 7\nRegressions\n📚 ISRL - Chps 3.1-3.5, 6.1-6.2, 7.1-7.3, 8.2\n\n\n\n\n9\nWed, Oct 18\nLec 8\nProject 1 presentations I  Final Project Preview\n\n\n\n\n\n\n10\nWed, Oct 25\nLec 9\nAssociation Rules  Clustering\n📚 Data mining conceptual - Chp 4  📚 Data mining conceptual - Chp 8.1-8.3\n📝 HW 3  📝 R/Python Exercise 3\n\n\n11\nWed, Nov 1\nLec 10\nNo Lecture\n📚 Data mining conceptual - Chp 11\n\n\n\n\n12\nWed, Nov 8\nLec\nProject Peer Preview\n\n\n📑 Project Proposal Peer Review\n\n\n13\nMon, Nov 13\n\n\n\n\n\n\n📑 Project proposals for instructor review\n\n\n\nWed, Nov 15\nLec 11\nAnomaly Detection\n📚 Data mining conceptual - Chp 11\n📝 HW 4  📝 R/Python Exercise 4\n\n\n\nFri, Nov 17\n\n\n\n\n\n\n📑 Final Project Proposal\n\n\n14\nWed, Nov 22\nNo lecture\nHappy Thanksgiving! 🦃\n\n\n\n\n\n\n15\nWed, Nov 29\nLec 12\nTime Series Analysis I\n📚 Pract Time Series - Chps 1-2\n\n\n\n\n16\nWed, Dec 6\nLec 13\nTime Series Analysis II  Project Presentations\n📚 Pract Time Series - Ch 3\n📝 HW 5\n\n\nFinals\nMon, Dec 11\n\n\nProject Presentations @ 1pm\n\n\n📑 Final Project",
+    "crumbs": [
+      "Course information",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html",
+    "href": "course-syllabus.html",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "",
+    "text": "INFO 523 Data Mining and Discovery- This course will introduce students to the concepts and techniques of data mining for knowledge discovery.  It includes methods developed in the fields of statistics, large-scale data analytics, machine learning, pattern recognition, database technology and artificial intelligence for automatic or semi-automatic analysis of large quantities of data to extract previously unknown patterns.  Topics include understanding varieties of data, data preprocessing, classification, association and correlation rule analysis, cluster analysis, outlier detection, and data mining trends and research frontiers. We will use software packages for data mining, explaining the underlying algorithms and their use and limitations.  The course include laboratory exercises, with data mining case studies using data from many different resources.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-description",
+    "href": "course-syllabus.html#course-description",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "",
+    "text": "INFO 523 Data Mining and Discovery- This course will introduce students to the concepts and techniques of data mining for knowledge discovery.  It includes methods developed in the fields of statistics, large-scale data analytics, machine learning, pattern recognition, database technology and artificial intelligence for automatic or semi-automatic analysis of large quantities of data to extract previously unknown patterns.  Topics include understanding varieties of data, data preprocessing, classification, association and correlation rule analysis, cluster analysis, outlier detection, and data mining trends and research frontiers. We will use software packages for data mining, explaining the underlying algorithms and their use and limitations.  The course include laboratory exercises, with data mining case studies using data from many different resources.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-offering",
+    "href": "course-syllabus.html#course-offering",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course Offering",
+    "text": "Course Offering\n909-2234-1 INFO 523 002 - Data Mining and Discovery",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#instructor-information",
+    "href": "course-syllabus.html#instructor-information",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Instructor Information",
+    "text": "Instructor Information\nDr. Greg Chism,\nAssistant Professor of Practice,\nSchool of Information\ngchism@arizona.edu\nOffice: Harvill 420\nOffice Hours: Mondays, 2-3pm, Harvill 420",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#prerequisites",
+    "href": "course-syllabus.html#prerequisites",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nStudents are assumed to know the basics in computer programming (e.g., variables, arrays, loops, if-then conditions), statistics (e.g., normal distribution, significance tests), and relational database (e.g., ER-diagram, SQL statements).",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-format",
+    "href": "course-syllabus.html#course-format",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course Format",
+    "text": "Course Format\nLive in-person lectures, W 1:00-3:30pm, Modern Languages, RM 413. Attendance is mandatory.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-objective",
+    "href": "course-syllabus.html#course-objective",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course Objective",
+    "text": "Course Objective\nINFO 523 is an elective in the iSchool’s M.S. program. As a multidisciplinary field, the course introduce concepts and work from many areas critical to information studies including statistics, machine learning, pattern recognition, database technology, and data visualization.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#learning-outcomes",
+    "href": "course-syllabus.html#learning-outcomes",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will: \n\nUnderstand a large set of concepts of data mining and knowledge discovery.\nEvaluate and use algorithms and software packages to perform data mining analyses.\nExplain and interpret results from data mining analyses.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#textbooks",
+    "href": "course-syllabus.html#textbooks",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Textbooks:",
+    "text": "Textbooks:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n[Data mining algorithms] Pawel Cichosz. Data Mining Algorithms: Explained Using R. Wiley, 2015.\n[Data mining case studies] Luis Torgo. Data Mining with R: Learning with Case Studies. Chapman and Hall/CRC, 2016.\n[ISRL] James Garth, Witten Daniela, Hastie Trevor, Tibshirani Robert. An Introduction to Statistical Learning. Springer, 2021/2023.\n[Pract Time Series] Nielsen Aileen. Practical Time Series Analysis. O’Rielly, 2020.\n\n\nRecommended textbooks:\n\n[Intro to Data Mining in R] Michael Hahsler. Introduction to Data Mining R Examples. Online Book, 2021.\n[ggplot2-book] Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. ggplot2: Elegant Graphics for Data Analysis. (in progress) 3rd edition. Springer, 2022.\n[r4ds] Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. R for Data Science. 2nd edition. O’Reilly, 2022.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-schedule",
+    "href": "course-syllabus.html#course-schedule",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nAn up-to-date schedule, assignments, and due dates can be found on the course website: datamineaz.org.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-competencies",
+    "href": "course-syllabus.html#course-competencies",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course Competencies",
+    "text": "Course Competencies\nThe course addresses the MS Competencies: C1 [A, B, C, D], C2, and C3",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-community",
+    "href": "course-syllabus.html#course-community",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course Community",
+    "text": "Course Community\n\nUArizona Community Standard\nAll students must adhere to the UArizona Student Rights & Responsibilities: The University of Arizona is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, and accountability. Citizens of this community commit to reflect upon these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.\n\n\nInclusive community\nIt is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength, and benefit. It is my intent to present materials and activities that are respectful of diversity and in alignment with UArizona’s Commitment to Diversity and Inclusion. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.\nFurthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities. To help accomplish this:\n\nIf you have a name that differs from those that appear in your official UArizona records, please let me know! You’ll be able to note this in the Getting to know you survey.\nIf you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with me. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.\nI (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please let me or a member of the teaching team know.\n\n\n\nCommunication\nAll lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website: datavizaz.org.\nI will regularly send course announcements via email and Slack, make sure to check one or the other of these regularly. If an announcement is sent Monday through Thursday, I will assume that you have read the announcement by the next day. If an announcement is sent on a Friday or over the weekend, I will assume that you have read it by Monday.\n\n\nWhere to get help\n\nIf you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.\nThe teaching team is here to help you be successful in the course. You are encouraged to attend office hours to ask questions about the course content and assignments. Many questions are most effectively answered as you discuss them with others, so office hours are a valuable resource. Please use them!\nOutside of class and office hours, any general questions about course content or assignments should be posted on the course Slack. There is a chance another student has already asked a similar question, so please check the other posts on Slack before adding a new question. If you know the answer to a question posted on Slack, I encourage you to respond!\n\nCheck out the Support page for more resources.\nI want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don’t hesitate to ask.\n\nYou never owe me personal information about your health (mental or physical) but you’re always welcome to talk to me. If I can’t help, I likely know someone who can.\nI want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#lectures",
+    "href": "course-syllabus.html#lectures",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Lectures",
+    "text": "Lectures\nThe goal of the lectures is for them to be as interactive as possible. My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them. A lot of what you do in this course will involve writing code, and coding is a skill that is best learned by doing. Therefore, as much as possible, you will be working on a variety of tasks and activities throughout each lecture and lab. Attendance will not be taken during class but you are expected to attend all lecture and lab sessions and meaningfully contribute to in-class exercises and discussion.\nYou are expected to bring a laptop to each class so that you can take part in the in-class exercises. Please make sure your laptop is fully charged before you come to class as the number of outlets in the classroom will not be sufficient to accommodate everyone. See the UArizona Libraries loaner technology if you need a loaner laptop.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#assessment",
+    "href": "course-syllabus.html#assessment",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Assessment",
+    "text": "Assessment\nThe four components that go into the final course grade are described below. The percentage of the final grade is in parentheses next to each. All but the final exam should be completed in groups (see Group Work Policy below).\n\nHomework (35%): These are selected exercises from the required textbook. Try to complete as much as possible these homework problems using R, unless specifically asked. You can turn in the homework in .R file is preferred (using comments for narrative answers), as it will be easier for the instructor to run and check your code. Where a graphic or complex math formula is needed, you can hand-draw the graph/formula and turn in a picture of it. \nR Exercises (35%): These are R code provided for you to review and practice. If you are new to R, type and run the R code in R Studio and turn in your .R file. If you know R already, skim through the R code and then apply them to a different data set of your choice (you need to include at least half of the provided code to earn credit for an exercise) and return your .R file.\nFinal project (25%): A final data mining project of your choice or using open datasets.\nClass Participation (attending class, post and answer questions) (5%)\n\nThe work and course requirements are subject to change at the discretion of the instructor with proper notice to the students.\nAll work is expected to be submitted by the deadline and there are no make ups for any missed assessments. See [Late work policy] for policies on late work.\n\nGrading:\nThe final letter grade will be determined based on the following thresholds:\n\n\n\nLetter Grade\nFinal Course Grade\n\n\n\n\nA\n&gt;= 90\n\n\nB\n80 - 89.99\n\n\nC\n70 - 79.99\n\n\nD\n60 - 69.99\n\n\nE\n50-59.99\n\n\nF\n&lt; 60",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#assignment-policy",
+    "href": "course-syllabus.html#assignment-policy",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Assignment Policy",
+    "text": "Assignment Policy\nDo not subject yourself to the late penalty: please do not make the instructor to assign a B for an A work just because you are late.\n\nAll work must be turned in on the date due by midnight (11:59pm) Tucson time. Late work without a prior notice (at least 2 days before the due date) to and approval by the Instructor will receive 5% deduction for each late day. For example, if your work is marked at 80% but you handed it in 1 min after the due time, your mark for that assignment will be 80%*0.95=76%. Assignments late for 5 days will not be marked without an approved extension.\nIn case of group work, each member is expected to contribute equally to an assignment. “Free riders” will receive a zero grade for the assignment. Groups should report non-responsive member(s) to the instructor.\nIn case of a GitHub malfunction, message me and I will assist accordingly.\nBe sure to check your submissions are successful. “I am not sure what had happened, but I honestly thought I had submitted my assignment on time” is not an acceptable excuse for waiving the late penalties. \nAll work may be checked by Turnitin.com or other tools made available to the Instructor. Students may find answers to homework questions on the Web. Yes, students are allowed to check out and learn from those answers, but to avoid an plagiarism charge, students must (1) cite the source URL and (2) present their work in their own words. Please do not impose the difficult and time consuming task of reporting plagiarism to your Instructor, but know that the Instructor will report any such case if you give the opportunity. Similarly, acknowledge help received from classmates or others. These acknowledgement will not hurt your grade, instead they reveal the academic integrity in you as a young scholar/researcher.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#final-projects",
+    "href": "course-syllabus.html#final-projects",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Final Projects",
+    "text": "Final Projects\nYour task for this project is to showcase your knowledge of any topic related to data mining.\nThis is intentionally vague – part of the challenge is to design a project that showcases best your interests and strengths.\nOne requirement is that your project should feature some element that you had to learn on your own. This could be a package you use that we didn’t teach in class (e.g., a package for 3D visualizations) or a workflow (e.g., making a package) or anything else. If you’re not sure if your “new” thing counts, just ask!\nMore information will be provided throughout the semester.\n\nFinal Project Date\nTuesday, December 14",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-policies",
+    "href": "course-syllabus.html#course-policies",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Course policies",
+    "text": "Course policies\n\nAcademic honesty\nTL;DR: Don’t cheat!\nStudents are expected to abide by The University of Arizona Code of Academic Integrity. ‘The guiding principle of academic integrity is that a student’s submitted work must be the student’s own.’ If you have any questions regarding what acceptable practice under this Code is, please ask an Instructor.\nPlease abide by the following as you work on assignments in this course:\n\nCollaboration: Only work that is clearly assigned as team work should be completed collaboratively.\nThe reading quizzes must be completed individually with absolutely no communication with classmates.\nThe homework assignments must also be completed individually and you are welcomed to discuss the assignment with classmates at a high level (e.g., discuss what’s the best way for approaching a problem, what functions are useful for accomplishing a particular task, etc.). However you may not directly share answers to homework questions (including any code) with anyone other than myself and the teaching assistants.\nFor the projects, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.\nSharing and reusing code: I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g. RStudio Community, StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class.\nGenerative AI (e.g., ChatGPT): I am additionally aware of the potential code AI for coding (I taught a workshop on it…). While these tools are amazing, learners should be aware of the impacts that using such tools can have on core competency. David Humphrey, a computer science professor, wrote about ChatGPT and its potentially negative impacts on core learning. It is a good read about the pitfalls of using generative AI in an educational context. By using a generative AI, learners may miss the opportunity to discover how something works and why things are done that way. It is also important to note that the iSchool generally bans utilizing ChatGPT and generative AI in our Academic Integrity Policy.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#ischool-academic-integrity-policy",
+    "href": "course-syllabus.html#ischool-academic-integrity-policy",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "iSchool Academic Integrity Policy",
+    "text": "iSchool Academic Integrity Policy\nThis policy agreed upon by faculty in the UArizona iSchool applies in addition to the Dean of Students’ Code of Academic Integrity.\nStudents in courses at the UArizona iSchool are expected to maintain rigor in their academic performance with intent to learn, practice, and overcome challenges toward personal growth and enrichment. As future professionals in digital environments, iSchool students are also expected to exercise transparency and integrity in collaborations and in the use of tools and resources that may aid completion in assignments for our courses.\nConsider the following PROHIBITED practices in this course, unless the instructor has specifically written instructions or permission to do otherwise:\n\nPosting a question on an online site such as Chegg.com, and copying and pasting some or all of the response into an assessment\nPosting an assessment from the course on online sharing sites such as Course Hero. Aiding other students in violation of academic integrity is also a violation, and is potential copyright infringement.\nGenerating and submitting, in whole or in part, text or code through Artificial Intelligence such as ChatGPT, QuillBot, and text summarizers\nUsing, in whole or in part, computer code not written by the student (for example, from another student, a book, or the internet) in an assignment or project. This includes using such code in modified or unmodified form.\nSearching for solutions to projects or assignments on the internet or through other tools, when your instructor intended for you to learn the solution through exercises (e.g. Googling for the solution to a question on an assignment).\nSimultaneously submitting the same assignment as another student enrolled into the course without prior permission from the instructor\n\nExceptions: Clear Instructions will be Provided\nIn any cases in which this course requires or permits students to use practices in the list above, clear written instructions will specify the tools allowed or required, so students can be certain they are working as instructed. See the UArizona iSchool Academic Integrity Policy, the UArizona Code of Academic Integrity and Syllabus policy for more information.\n\nLLMs and ChatGPT\nLarge language models (LLMs) like ChatGPT are a type of artificial intelligence (AI) engine that can look like it generates the code you need for R labs and short answer questions. You are encouraged to use ChatGPT to debug code and experiment. However, abuse of ChatGPT can be traced (e.g., failing to give credit or cite ChatGPT when it is used) which could result in your suspension or termination from the course and even your program of study. Keep in mind, too, that while the code may appear legitimate, early studies have shown ChatGPT is not all that accurate with sophisticated coding. Exercise your scholarly discretion and maintain a sense of integrity in your statistical learning journey.\nSee my policies on this subject above.\n\n\n“Incomplete” grade\nThe grade of I may be awarded only at the end of a term, when all but a minor portion of the course work has been satisfactorily completed. The grade of I is not to be awarded in place of a failing grade or when the student is expected to repeat the course; in such a case, a grade other than I must be assigned. Students should make arrangements with the instructor to receive an incomplete grade before the end of the term. If the incomplete is not removed by the instructor within one year the I grade will revert to a failing grade.\n\n\nTutoring\nTutoring can be found through the UArizona Think Tank.\n\n\nAttendance policy\nResponsibility for class attendance rests with individual students. Since regular and punctual class attendance is expected, students must accept the consequences of failure to attend.\nHowever, there may be many reasons why you cannot be in class on a given day, particularly with possible extra personal and academic stress and health concerns this semester. All course lectures will be recorded and available to enrolled students after class. If you miss a lecture, make sure to watch the recording and review the material before the next class session. Overall this policy is put in place to ensure communication between team members, respect for each others’ time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class.\nNote that attendance and participation is part of your grade as well.\n\n\nAttendance policy related to COVID symptoms, exposure, or infection\nStudent health, safety, and well-being are the university’s top priorities. To help ensure your well-being and the well-being of those around you, please do not come to class if you have symptoms related to COVID-19, have had a known exposure to COVID-19, or have tested positive for COVID-19. If any of these situations apply to you, you must follow university guidance related to the ongoing COVID-19 pandemic and current health and safety protocols. If you are experiencing any COVID-19 symptoms, contact student health at (520) 621-9202. To keep the university community as safe and healthy as possible, you will be expected to follow these and the university guidelines on COVID-19 mitigation. Please reach out to me and your academic dean as soon as possible if you need to quarantine or isolate so that we can discuss arrangements for your continued participation in class.\nNotify your instructor(s) if you will be missing up to one week of course meetings and/or assignment deadlines\nIf you must miss the equivalent of more than one week of class and have an emergency, the Dean of Students is the proper office to contact (DOS-deanofstudents@email.arizona.edu). The Dean of Students considers the following as qualified emergencies: the birth of a child, mental health hospitalization, domestic violence matter, house fire, hospitalization for physical health (concussion/emergency surgery/coma/COVID-19 complications/ICU), death of immediate family, Title IX matters, etc.\nPlease understand that there is no guarantee of an extension when you are absent from class and/or miss a deadline.\nNote: If you’ve read this far in the syllabus, email me a picture of your pet if you have one or your favorite meme!",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#additional-university-policies",
+    "href": "course-syllabus.html#additional-university-policies",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Additional university policies",
+    "text": "Additional university policies\nAdditional policies can be found at this link (please read through them): https://catalog.arizona.edu/syllabus-policies",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#important-dates",
+    "href": "course-syllabus.html#important-dates",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Important Dates",
+    "text": "Important Dates\nInformation contained in this course syllabus, may be subject to change, as deemed appropriate by the instructor.\n\nMonday, August 21: Classes begin, Monday schedule\nMonday, August 28: Drop/add ends\nMonday, September 4: Labor Day, no class\nSunday, September 17: Last day to drop without a W (withdraw)\nSunday, October 29: Last day to withdraw from a class online through UAccess\nFriday, November 10: Veteran’s Day, limited support available\nThursday - Sunday, November 23 - 26: Thanksgiving recess, no support available\nThursday, December 14: Project presentations\n\nFor more important dates, see the full UArizona Academic Calendar.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#graduate-student-resources",
+    "href": "course-syllabus.html#graduate-student-resources",
+    "title": "INFO 523 Syllabus Fall 2023",
+    "section": "Graduate Student Resources",
+    "text": "Graduate Student Resources\nUniversity of Arizona’s Basic Needs Resources page for graduate students: http://basicneeds.arizona.edu/index.html",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\nCourse GitHub organization\n🔗 on GitHub\n\n\nGradebook\n🔗 on D2L\n\n\nTexbooks\n🔗 Data Mining Concepts and Techniques\n🔗 Data Mining with R: Learning with Case Studies\n🔗 A R Companion for Introduction to Data Mining\n\n\nPackage documentation\n🔗 ggplot2: ggplot2.tidyverse.org\n🔗 dplyr: dplyr.tidyverse.org\n🔗 tidyr: tidyr.tidyverse.org\n🔗 forcats: forcats.tidyverse.org\n🔗 stringr: stringr.tidyverse.org\n🔗 lubridate: lubridate.tidyverse.org\n🔗 readr: readr.tidyverse.org",
+    "crumbs": [
+      "Course information",
+      "Useful links"
+    ]
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "This is the homepage for INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism in Fall 2023 at The University of Arizona. All course materials will be posted on this site.\nYou can find the course syllabus here and the course schedule here.",
+    "crumbs": [
+      "Course information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-overview.html#class-meetings",
+    "href": "course-overview.html#class-meetings",
+    "title": "Course overview",
+    "section": "Class meetings",
+    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nModern Languages, RM 413\nWed 1:00 - 3:30 pm",
+    "crumbs": [
+      "Course information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-overview.html#license",
+    "href": "course-overview.html#license",
+    "title": "Course overview",
+    "section": "License",
+    "text": "License\n\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
+    "crumbs": [
+      "Course information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-team.html",
+    "href": "course-team.html",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Dr. Greg Chism (he/him) is an Assistant Professor of the Practice at the School of Information at The University of Arizona. Greg is a data scientist, educator, and behavioral ecologist. He is passionate about telling stories through data. He accomplishes this by leveraging his interdisciplinary background to provide an innovative approach to answering complex questions.\n\n\n\nOffice hours\nLocation\n\n\n\n\nMon 2 pm - 3 pm\nHarvill 420\n\n\nBy appointment\nHarvill 420 or Zoom",
+    "crumbs": [
+      "Course information",
+      "Teaching team"
+    ]
+  },
+  {
+    "objectID": "course-team.html#instructor",
+    "href": "course-team.html#instructor",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Dr. Greg Chism (he/him) is an Assistant Professor of the Practice at the School of Information at The University of Arizona. Greg is a data scientist, educator, and behavioral ecologist. He is passionate about telling stories through data. He accomplishes this by leveraging his interdisciplinary background to provide an innovative approach to answering complex questions.\n\n\n\nOffice hours\nLocation\n\n\n\n\nMon 2 pm - 3 pm\nHarvill 420\n\n\nBy appointment\nHarvill 420 or Zoom",
+    "crumbs": [
+      "Course information",
+      "Teaching team"
+    ]
+  },
+  {
+    "objectID": "course-team.html#teaching-assistants",
+    "href": "course-team.html#teaching-assistants",
+    "title": "Teaching team",
+    "section": "Teaching assistants",
+    "text": "Teaching assistants\n\n\n\nTBD",
+    "crumbs": [
+      "Course information",
+      "Teaching team"
+    ]
+  }
+]

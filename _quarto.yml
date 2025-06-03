@@ -43,12 +43,6 @@ website:
             text: Schedule
           - href: course-links.qmd
             text: Useful links
-      - section: "Resources"
-        contents: 
-          -href: rstudio.qmd
-           text: Installing R/RStudio
-          -href: twine.qmd
-           text: Twine Games
             
   page-footer:
     right: "This page is built with 💛 and [Quarto](https://quarto.org/)."
