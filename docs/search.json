@@ -125,7 +125,7 @@
     "href": "course-links.html",
     "title": "Useful links",
     "section": "",
-    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\nCourse GitHub organization\n🔗 on GitHub\n\n\nTexbooks\n🔗 Data Mining Concepts and Techniques\n🔗 Data Mining with R: Learning with Case Studies\n🔗 A R Companion for Introduction to Data Mining\n\n\nPackage documentation\n🔗 ggplot2: ggplot2.tidyverse.org",
+    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\nTexbooks\n🔗 Data Mining Concepts and Techniques\n🔗 Data Mining with R: Learning with Case Studies\n🔗 A R Companion for Introduction to Data Mining\n\n\nPackage documentation\n🔗 ggplot2: ggplot2.tidyverse.org",
     "crumbs": [
       "Workshop information",
       "Useful links"
