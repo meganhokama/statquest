@@ -4,11 +4,7 @@ title: "StatQuest Team"
 
 ## Instructor
 
-![](images/team/profile.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Meg Hokama" width="200"}
-
 [**Meg Hokama**](https://meganhokama.github.io/website/) (she/her) is a PhD Candidate in Educational Psychology at the at The University of Arizona. 
-
-<br>
 
 ## Instructor
 

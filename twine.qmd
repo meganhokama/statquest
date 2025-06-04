@@ -1,5 +1,5 @@
 ---
-title: "twine"
+title: "Twine Game"
 format: html
 ---
 
@@ -10,3 +10,5 @@ Twine is an open-source tool for creating interactive and nonlinear stories, typ
 ## Access Twine Games Here:
 
 ### [Creative Thinking Quest](https://daisyabbottitchio.itch.io/creative-thinking-quest) by Daisy Abbott
+
+### Mystery of Stat Manor by Meg Hokama (TBA)

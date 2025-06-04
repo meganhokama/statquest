@@ -18,7 +18,7 @@ library(googlesheets4)
 library(gt)
 library(tidyverse)
 gs4_deauth()
-d <- read_sheet("https://docs.google.com/spreadsheets/d/11tb2jW7HlPdS2nSWaUBaJrUZQ-7ljlqasDmHtXBSwqM/edit?usp=sharing")
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1fEYzqlRPp1BCag_YzWvUmxWNyMzNaPaM6OtNIkYBFdo/edit?usp=sharing")
 ```
 
 ```{r}
@@ -41,7 +41,7 @@ d |>
     ) |>
   cols_align(
     align = "left", 
-    columns = c(what, topic)
+    columns = c(what, topic, rworkshop, game)
     ) |>
   tab_style(
     style = cell_borders(
@@ -50,25 +50,25 @@ d |>
       style = "solid"
     ),
     locations = cells_body(
-      columns = c(date, topic)
+      columns = c(date, topic, what, rworkshop, game)
     )
   ) |>
   fmt_markdown(
-    columns = c(topic, prepare)
+    columns = c(topic)
   ) |>
   cols_width(
-    week ~ px(30),
+    day ~ px(30),
     date ~ px(200), 
-    due ~ px(150),
     topic ~ px(400),
     topic ~ px(300),
-    due ~ px(200)
   ) |>
   cols_label(
     what = "Lecture",
     day = "Day",
     date = "Date", 
-    topic = "Topic"
+    topic = "Topic",
+    rworkshop = "R-Workshop",
+    game = "Twine Game"
   ) |>
   tab_options(
     table.font.names = "Raleway",

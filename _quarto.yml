@@ -47,6 +47,8 @@ website:
             text: Installing R/RStudio
           - href: twine.qmd
             text: Twine Game
+          - href: lecture.qmd
+            text: Lecture and R-scripts
             
   page-footer:
     right: "This page is built with 💛 and [Quarto](https://quarto.org/)."

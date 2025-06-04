@@ -2,7 +2,7 @@
   {
     "objectID": "twine.html",
     "href": "twine.html",
-    "title": "twine",
+    "title": "Twine Game",
     "section": "",
     "text": "Twine is an open-source tool for creating interactive and nonlinear stories, typically in the form of choose-your-own-adventure (™!) style games.",
     "crumbs": [
@@ -13,7 +13,7 @@
   {
     "objectID": "twine.html#why-twine",
     "href": "twine.html#why-twine",
-    "title": "twine",
+    "title": "Twine Game",
     "section": "",
     "text": "Twine is an open-source tool for creating interactive and nonlinear stories, typically in the form of choose-your-own-adventure (™!) style games.",
     "crumbs": [
@@ -24,7 +24,7 @@
   {
     "objectID": "twine.html#access-twine-games-here",
     "href": "twine.html#access-twine-games-here",
-    "title": "twine",
+    "title": "Twine Game",
     "section": "Access Twine Games Here:",
     "text": "Access Twine Games Here:\n\nCreative Thinking Quest by Daisy Abbott",
     "crumbs": [
@@ -37,7 +37,7 @@
     "href": "index.html",
     "title": "StatQuest",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay #\nWorkshop Meetings\nTopics\n\n\n\n\nDay 1\n 45-min. Lecture\nIntroduction to Statistics & Research Design\n\n\n\n15-.min. Break\n\n\n\n\n30-min. Game Module\n\n\n\n\n30-min. R-workshop\n\n\n\nDay 2\n45-min. Lecture\nData Analyses Techniques: descriptive, correlations, t-test, ANOVA\n\n\n\n15-.min. Break\n\n\n\n\n30-min. Game Module\n\n\n\n\n30-min. R-workshop\n\n\n\nDay 3\n45-min. Lecture\n Basic Data Visualization Methods\n\n\n\n15-.min. Break\n\n\n\n\n30-min. Game Module\n\n\n\n\n30-min. R-workshop\n\n\n\nDay 4\n45-min. Lecture\nCommunicating Research Findings: Best practices for writing and presenting research\n\n\n\n15-.min. Break\n\n\n\n\n30-min. Game Module\n\n\n\n\n30-min. R-workshop",
+    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nMystery Manor: Chapter I\nIntroduction to Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nMystery Manory: Chapter II\nData Analyses Techniques: descriptive, correlations, t-test, ANOVA\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manor: Chapter III\nBasic Data Visualization Methods\n\n\n4\nThu, Jun 12\nLec 4\nScrip 4\nCreative Thinking Game Quest\nCommunicating Research Findings: Best practices for writing and presenting research",
     "crumbs": [
       "Course information",
       "Schedule"
@@ -114,7 +114,7 @@
     "href": "course-overview.html",
     "title": "Course overview",
     "section": "",
-    "text": "This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & Meg Hokamaat The University of Arizona. All workshop materials will be posted on this site.\nYou can find the course schedulehere.",
+    "text": "This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & Meg Hokama at The University of Arizona. All workshop materials will be posted on this site.\nYou can find the course schedulehere.",
     "crumbs": [
       "Course information",
       "Overview"
