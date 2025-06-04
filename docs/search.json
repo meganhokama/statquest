@@ -1,5 +1,38 @@
 [
   {
+    "objectID": "twine.html",
+    "href": "twine.html",
+    "title": "twine",
+    "section": "",
+    "text": "Twine is an open-source tool for creating interactive and nonlinear stories, typically in the form of choose-your-own-adventure (™!) style games.",
+    "crumbs": [
+      "Materials",
+      "Twine Game"
+    ]
+  },
+  {
+    "objectID": "twine.html#why-twine",
+    "href": "twine.html#why-twine",
+    "title": "twine",
+    "section": "",
+    "text": "Twine is an open-source tool for creating interactive and nonlinear stories, typically in the form of choose-your-own-adventure (™!) style games.",
+    "crumbs": [
+      "Materials",
+      "Twine Game"
+    ]
+  },
+  {
+    "objectID": "twine.html#access-twine-games-here",
+    "href": "twine.html#access-twine-games-here",
+    "title": "twine",
+    "section": "Access Twine Games Here:",
+    "text": "Access Twine Games Here:\n\nCreative Thinking Quest by Daisy Abbott",
+    "crumbs": [
+      "Materials",
+      "Twine Game"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "StatQuest",
@@ -48,18 +81,18 @@
     "href": "course-syllabus.html#learning-outcomes",
     "title": "StatQuest Workshop Overview",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, students will: \n\nUnderstand a large set of concepts of data mining and knowledge discovery.\nEvaluate and use algorithms and software packages to perform data mining analyses.\nExplain and interpret results from data mining analyses.",
+    "text": "Learning Outcomes\nBy the end of this course, students will: \n\nDescribe fundamental concepts in research design and basic statistical techniques used in quantitative research.\nApply statistical methods using R to organize, analyze, and interpret quantitative data from sample research scenarios.\nCreate clear and effective data visualizations and research summaries that communicate key findings using R and best practices for reporting.",
     "crumbs": [
       "Course information",
       "Syllabus"
     ]
   },
   {
-    "objectID": "course-syllabus.html#textbooks",
-    "href": "course-syllabus.html#textbooks",
+    "objectID": "course-syllabus.html#recommended-readings",
+    "href": "course-syllabus.html#recommended-readings",
     "title": "StatQuest Workshop Overview",
-    "section": "Textbooks:",
-    "text": "Textbooks:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n[Data mining algorithms] Pawel Cichosz. Data Mining Algorithms: Explained Using R. Wiley, 2015.\n[Data mining case studies] Luis Torgo. Data Mining with R: Learning with Case Studies. Chapman and Hall/CRC, 2016.\n[ISRL] James Garth, Witten Daniela, Hastie Trevor, Tibshirani Robert. An Introduction to Statistical Learning. Springer, 2021/2023.\n[Pract Time Series] Nielsen Aileen. Practical Time Series Analysis. O’Rielly, 2020.\n\n\nRecommended textbooks:\n\n[Intro to Data Mining in R] Michael Hahsler. Introduction to Data Mining R Examples. Online Book, 2021.\n[ggplot2-book] Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. ggplot2: Elegant Graphics for Data Analysis. (in progress) 3rd edition. Springer, 2022.\n[r4ds] Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. R for Data Science. 2nd edition. O’Reilly, 2022.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
+    "section": "Recommended Readings:",
+    "text": "Recommended Readings:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
     "crumbs": [
       "Course information",
       "Syllabus"
