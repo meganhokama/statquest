@@ -9,26 +9,68 @@ editor_options:
 
 This page contains an outline of the topics and content for the workshop.
 
-+----------------------+------------------------+---------------------------------------------------------------------------------------------+
-| <br>Day \#           | <br>Workshop Meetings  | <br>Topics                                                                                  |
-+:====================:+:======================:+:===========================================================================================:+
-| <br>Day 1            | 1.  45-min. Lecture    | <br>Introduction to Statistics & <br>Research Design                                        |
-|                      | 2.  15-min Break       |                                                                                             |
-|                      | 3.  30-min R-Workshop  |                                                                                             |
-|                      | 4.  30-min Game Module |                                                                                             |
-+----------------------+------------------------+---------------------------------------------------------------------------------------------+
-| <br>Day 2            | 1.  45-min. Lecture    | <br>Data Analyses Techniques: descriptive, <br>correlations, t-test, ANOVA                  |
-|                      | 2.  15-min Break       |                                                                                             |
-|                      | 3.  30-min R-Workshop  |                                                                                             |
-|                      | 4.  30-min Game Module |                                                                                             |
-+----------------------+------------------------+---------------------------------------------------------------------------------------------+
-| <br>Day 3            | 1.  45-min. Lecture    | <br> Basic Data Visualization Methods                                                       |
-|                      | 2.  15-min Break       |                                                                                             |
-|                      | 3.  30-min R-Workshop  |                                                                                             |
-|                      | 4.  30-min Game Module |                                                                                             |
-+----------------------+------------------------+---------------------------------------------------------------------------------------------+
-| <br>Day 4            | 1.  45-min. Lecture    | <br>Communicating Research Findings: <br>Best practices for writing and presenting research |
-|                      | 2.  15-min Break       |                                                                                             |
-|                      | 3.  30-min R-Workshop  |                                                                                             |
-|                      | 4.  30-min Game Module |                                                                                             |
-+----------------------+------------------------+---------------------------------------------------------------------------------------------+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+gs4_deauth()
+d <- read_sheet("https://docs.google.com/spreadsheets/d/11tb2jW7HlPdS2nSWaUBaJrUZQ-7ljlqasDmHtXBSwqM/edit?usp=sharing")
+```
+
+```{r}
+#| echo: false
+
+d |>
+  mutate(
+    date = as.Date(date)
+  ) |>
+  gt() |>
+  fmt_date(date, date_style = 31) |>
+  sub_missing(columns = c(day, what, topic), missing_text = "") |>
+  cols_align(
+    align = "center", 
+    columns = c(day)
+    ) |>
+  cols_align(
+    align = "right", 
+    columns = c(date)
+    ) |>
+  cols_align(
+    align = "left", 
+    columns = c(what, topic)
+    ) |>
+  tab_style(
+    style = cell_borders(
+      sides = "right",
+      color = "#D3D3D3",
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = c(date, topic)
+    )
+  ) |>
+  fmt_markdown(
+    columns = c(topic, prepare)
+  ) |>
+  cols_width(
+    week ~ px(30),
+    date ~ px(200), 
+    due ~ px(150),
+    topic ~ px(400),
+    topic ~ px(300),
+    due ~ px(200)
+  ) |>
+  cols_label(
+    what = "Lecture",
+    day = "Day",
+    date = "Date", 
+    topic = "Topic"
+  ) |>
+  tab_options(
+    table.font.names = "Raleway",
+  )
+```
