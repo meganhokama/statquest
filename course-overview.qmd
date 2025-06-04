@@ -2,7 +2,7 @@
 title: "Course overview"
 ---
 
-This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & [Meg Hokama](https://meganhokama.github.io/website/)at The University of Arizona. All workshop materials will be posted on this site.
+This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & [Meg Hokama](https://meganhokama.github.io/website/) at The University of Arizona. All workshop materials will be posted on this site.
 
 You can find the course schedule[here](index.qmd).
 
