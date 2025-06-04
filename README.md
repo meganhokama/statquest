@@ -1,21 +1,11 @@
-# Data Mining and Discovery
+# StatQuest Workshop
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b3d28610-25b7-4d03-a3dd-bb87d7690b2c/deploy-status)](https://app.netlify.com/sites/datavizaz/deploys)
-
-Course website for INFO 523 F23- Data Mining and Discovery at The University of Arizona, taught by Dr. Greg Chism.
-
-The website is live at [datamineaz.org](http://datamineaz.org/).
+Workshop website for StatQuest- digital game-based learning for statistics and R-learning, 
+taught by Meg Hokama.
 
 ## Colors
 
--   `#8B0015` - Chili
--   `#EF4056` - Bloom
 -   `#AB0520` - Arizona Red
--   `#378DBD` - Oasis
--   `#1E5288` - Azurite
--   `#FFFFFF` - White
--   `#E2E9EB` - Cool Gray
--   `#2A9BB7` - Blue Green
 
 ### Disclosure
 
