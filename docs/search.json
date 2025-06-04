@@ -26,120 +26,21 @@
     "href": "twine.html#access-twine-games-here",
     "title": "Twine Game",
     "section": "Access Twine Games Here:",
-    "text": "Access Twine Games Here:\n\nCreative Thinking Quest by Daisy Abbott",
+    "text": "Access Twine Games Here:\n\nMystery of Stat Manor by Meg Hokama (TBA)\n\n\nCreative Thinking Quest by Daisy Abbott",
     "crumbs": [
       "Materials",
       "Twine Game"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "StatQuest",
+    "objectID": "lecture.html",
+    "href": "lecture.html",
+    "title": "lecture",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nMystery Manor: Chapter I\nIntroduction to Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nMystery Manory: Chapter II\nData Analyses Techniques: descriptive, correlations, t-test, ANOVA\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manor: Chapter III\nBasic Data Visualization Methods\n\n\n4\nThu, Jun 12\nLec 4\nScrip 4\nCreative Thinking Game Quest\nCommunicating Research Findings: Best practices for writing and presenting research",
+    "text": "Lectures\nWill be added soon!\n\n\nR-scripts\nWill be added soon!",
     "crumbs": [
-      "Course information",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html",
-    "href": "course-syllabus.html",
-    "title": "StatQuest Workshop Overview",
-    "section": "",
-    "text": "Welcome to StatQuest! This course will cover the fundamental descriptive statistics (frequencies, central tendencies, and variability of data) and inferential statistics (t-test and ANOVA*) students will encounter in different fields of research. Students of this course will be introduced to an open-source statistical program to analyze and interpret quantitative data (R).",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#course-description",
-    "href": "course-syllabus.html#course-description",
-    "title": "StatQuest Workshop Overview",
-    "section": "",
-    "text": "Welcome to StatQuest! This course will cover the fundamental descriptive statistics (frequencies, central tendencies, and variability of data) and inferential statistics (t-test and ANOVA*) students will encounter in different fields of research. Students of this course will be introduced to an open-source statistical program to analyze and interpret quantitative data (R).",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#workshop-format",
-    "href": "course-syllabus.html#workshop-format",
-    "title": "StatQuest Workshop Overview",
-    "section": "Workshop Format",
-    "text": "Workshop Format\nHybrid, 6/09 to 6/12 10 am, to 12 pm, Data Catalyst Studio. Zoom Link: https://arizona.zoom.us/j/7861686314",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#learning-outcomes",
-    "href": "course-syllabus.html#learning-outcomes",
-    "title": "StatQuest Workshop Overview",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, students will: \n\nDescribe fundamental concepts in research design and basic statistical techniques used in quantitative research.\nApply statistical methods using R to organize, analyze, and interpret quantitative data from sample research scenarios.\nCreate clear and effective data visualizations and research summaries that communicate key findings using R and best practices for reporting.",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#recommended-readings",
-    "href": "course-syllabus.html#recommended-readings",
-    "title": "StatQuest Workshop Overview",
-    "section": "Recommended Readings:",
-    "text": "Recommended Readings:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-links.html",
-    "href": "course-links.html",
-    "title": "Useful links",
-    "section": "",
-    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\nCourse GitHub organization\n🔗 on GitHub\n\n\nTexbooks\n🔗 Data Mining Concepts and Techniques\n🔗 Data Mining with R: Learning with Case Studies\n🔗 A R Companion for Introduction to Data Mining\n\n\nPackage documentation\n🔗 ggplot2: ggplot2.tidyverse.org\n🔗 dplyr: dplyr.tidyverse.org\n🔗 tidyr: tidyr.tidyverse.org\n🔗 forcats: forcats.tidyverse.org\n🔗 stringr: stringr.tidyverse.org\n🔗 lubridate: lubridate.tidyverse.org\n🔗 readr: readr.tidyverse.org",
-    "crumbs": [
-      "Course information",
-      "Useful links"
-    ]
-  },
-  {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & Meg Hokama at The University of Arizona. All workshop materials will be posted on this site.\nYou can find the course schedulehere.",
-    "crumbs": [
-      "Course information",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "course-overview.html#workshop-meetings",
-    "href": "course-overview.html#workshop-meetings",
-    "title": "Course overview",
-    "section": "Workshop Meetings",
-    "text": "Workshop Meetings\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nWorkshop\nData Catalyst Studio or Zoom\n6/09 - 6/12 (10 am to 12 pm)",
-    "crumbs": [
-      "Course information",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "course-overview.html#license",
-    "href": "course-overview.html#license",
-    "title": "Course overview",
-    "section": "License",
-    "text": "License\n\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
-    "crumbs": [
-      "Course information",
-      "Overview"
+      "Materials",
+      "Lecture and R-scripts"
     ]
   },
   {
@@ -149,7 +50,7 @@
     "section": "",
     "text": "Meg Hokama (she/her) is a PhD Candidate in Educational Psychology at the at The University of Arizona.",
     "crumbs": [
-      "Course information",
+      "Workshop information",
       "Teaching team"
     ]
   },
@@ -160,7 +61,7 @@
     "section": "",
     "text": "Meg Hokama (she/her) is a PhD Candidate in Educational Psychology at the at The University of Arizona.",
     "crumbs": [
-      "Course information",
+      "Workshop information",
       "Teaching team"
     ]
   },
@@ -171,7 +72,7 @@
     "section": "Instructor",
     "text": "Instructor\nDr. Kat Cheng (she/her)",
     "crumbs": [
-      "Course information",
+      "Workshop information",
       "Teaching team"
     ]
   },
@@ -182,8 +83,118 @@
     "section": "Research Team",
     "text": "Research Team\nMaham Khalid (she/her)",
     "crumbs": [
-      "Course information",
+      "Workshop information",
       "Teaching team"
+    ]
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & Meg Hokama at The University of Arizona. All workshop materials will be posted on this site.\nYou can find the course schedulehere.",
+    "crumbs": [
+      "Workshop information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-overview.html#workshop-meetings",
+    "href": "course-overview.html#workshop-meetings",
+    "title": "Course overview",
+    "section": "Workshop Meetings",
+    "text": "Workshop Meetings\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nWorkshop\nWeaver Science and Engineering Library Rm 212 or Zoom\n6/09 - 6/12 (10 am to 12 pm)",
+    "crumbs": [
+      "Workshop information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-overview.html#license",
+    "href": "course-overview.html#license",
+    "title": "Course overview",
+    "section": "License",
+    "text": "License\n\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
+    "crumbs": [
+      "Workshop information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\nCourse GitHub organization\n🔗 on GitHub\n\n\nTexbooks\n🔗 Data Mining Concepts and Techniques\n🔗 Data Mining with R: Learning with Case Studies\n🔗 A R Companion for Introduction to Data Mining\n\n\nPackage documentation\n🔗 ggplot2: ggplot2.tidyverse.org",
+    "crumbs": [
+      "Workshop information",
+      "Useful links"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html",
+    "href": "course-syllabus.html",
+    "title": "StatQuest Workshop Overview",
+    "section": "",
+    "text": "Welcome to StatQuest! This course will cover the fundamental descriptive statistics (frequencies, central tendencies, and variability of data) and inferential statistics (t-test and ANOVA*) students will encounter in different fields of research. Students of this course will be introduced to an open-source statistical program to analyze and interpret quantitative data (R).",
+    "crumbs": [
+      "Workshop information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#course-description",
+    "href": "course-syllabus.html#course-description",
+    "title": "StatQuest Workshop Overview",
+    "section": "",
+    "text": "Welcome to StatQuest! This course will cover the fundamental descriptive statistics (frequencies, central tendencies, and variability of data) and inferential statistics (t-test and ANOVA*) students will encounter in different fields of research. Students of this course will be introduced to an open-source statistical program to analyze and interpret quantitative data (R).",
+    "crumbs": [
+      "Workshop information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#workshop-format",
+    "href": "course-syllabus.html#workshop-format",
+    "title": "StatQuest Workshop Overview",
+    "section": "Workshop Format",
+    "text": "Workshop Format\nHybrid, 6/09 to 6/12 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212. Zoom Link: https://arizona.zoom.us/j/7861686314",
+    "crumbs": [
+      "Workshop information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#learning-outcomes",
+    "href": "course-syllabus.html#learning-outcomes",
+    "title": "StatQuest Workshop Overview",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will:\n\nDescribe fundamental concepts in research design and basic statistical techniques used in quantitative research.\nApply statistical methods using R to organize, analyze, and interpret quantitative data from sample research scenarios.\nCreate clear and effective data visualizations and research summaries that communicate key findings using R and best practices for reporting.",
+    "crumbs": [
+      "Workshop information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#recommended-readings",
+    "href": "course-syllabus.html#recommended-readings",
+    "title": "StatQuest Workshop Overview",
+    "section": "Recommended Readings:",
+    "text": "Recommended Readings:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
+    "crumbs": [
+      "Workshop information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "StatQuest",
+    "section": "",
+    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nMystery Manor: Chapter I\nIntroduction to Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nMystery Manory: Chapter II\nData Analyses Techniques: descriptive, correlations, t-test, ANOVA\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manor: Chapter III\nBasic Data Visualization Methods\n\n\n4\nThu, Jun 12\nLec 4\nScrip 4\nCreative Thinking Game Quest\nCommunicating Research Findings: Best practices for writing and presenting research",
+    "crumbs": [
+      "Workshop information",
+      "Schedule"
     ]
   },
   {

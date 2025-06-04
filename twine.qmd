@@ -3,12 +3,14 @@ title: "Twine Game"
 format: html
 ---
 
-## Why Twine? 
+## Why Twine?
 
 Twine is an open-source tool for creating interactive and nonlinear stories, typically in the form of choose-your-own-adventure (™!) style games.
 
 ## Access Twine Games Here:
 
+### Mystery of Stat Manor by Meg Hokama (TBA)
+
 ### [Creative Thinking Quest](https://daisyabbottitchio.itch.io/creative-thinking-quest) by Daisy Abbott
 
-### Mystery of Stat Manor by Meg Hokama (TBA)
+### 
