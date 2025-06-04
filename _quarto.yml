@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - info523-f23-syllabus.pdf
+    - Syllabus52725.pdf
 
 website:
   page-navigation: true
@@ -10,7 +10,7 @@ website:
   description: "Homepage for StatQuest Workshop"
   favicon: /images/icon.png
 
-  repo-url: https://github.com/Gchism94/INFO523-F23
+  repo-url: https://github.com/meganhokama/workshop
   repo-actions: [edit, issue]
 
   open-graph: true
@@ -22,7 +22,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/INFO-523-Exercises
+        href: https://github.com/meganhokama
         text: "GitHub organization"
 
     style: docked
@@ -35,14 +35,18 @@ website:
             text: Overview
           - href: course-syllabus.qmd
             text: Syllabus
-          - href: course-support.qmd
-            text: Support
           - href: course-team.qmd
             text: Teaching team
           - href: index.qmd
             text: Schedule
           - href: course-links.qmd
             text: Useful links
+      - section: "Materials"
+        contents:
+          - href: rstudio.qmd
+            text: Installing R/RStudio
+          - href: twine.qmd
+            text: Twine Game
             
   page-footer:
     right: "This page is built with 💛 and [Quarto](https://quarto.org/)."

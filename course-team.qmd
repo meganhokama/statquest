@@ -1,20 +1,18 @@
 ---
-title: "Teaching team"
+title: "StatQuest Team"
 ---
 
 ## Instructor
 
-![](images/team/greg.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Dr. Mine Çetinkaya-Rundel" width="200"}
+![](images/team/profile.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Meg Hokama" width="200"}
 
-[**Dr. Greg Chism**](https://gregtchism.com) (he/him) is an Assistant Professor of the Practice at the School of Information at The University of Arizona. Greg is a data scientist, educator, and behavioral ecologist. He is passionate about telling stories through data. He accomplishes this by leveraging his interdisciplinary background to provide an innovative approach to answering complex questions.
+[**Meg Hokama**](https://meganhokama.github.io/website/) (she/her) is a PhD Candidate in Educational Psychology at the at The University of Arizona. 
 
-| Office hours    | Location            |
-|-----------------|---------------------|
-| Mon 2 pm - 3 pm | Harvill 420         |
-| By appointment  | Harvill 420 or Zoom |
 
-## Teaching assistants
+## Instructor
 
-|     |     |     |     |     |
-|-----|-----|-----|-----|-----|
-| TBD |     |     |     |     |
+**Dr. Kat Cheng** (she/her) 
+
+## Research Team
+
+**Maham Khalid** (she/her)
