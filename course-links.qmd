@@ -14,16 +14,4 @@ title: "Useful links"
 |                            | 🔗 [A R Companion for Introduction to Data Mining](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/index.html) |
 +----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 | Package documentation      | 🔗 ggplot2: [ggplot2.tidyverse.org](https://ggplot2.tidyverse.org/)                                                                   |
-|                            |                                                                                                                                       |
-|                            | 🔗 dplyr: [dplyr.tidyverse.org](https://dplyr.tidyverse.org/)                                                                         |
-|                            |                                                                                                                                       |
-|                            | 🔗 tidyr: [tidyr.tidyverse.org](https://tidyr.tidyverse.org/)                                                                         |
-|                            |                                                                                                                                       |
-|                            | 🔗 forcats: [forcats.tidyverse.org](https://forcats.tidyverse.org/)                                                                   |
-|                            |                                                                                                                                       |
-|                            | 🔗 stringr: [stringr.tidyverse.org](https://stringr.tidyverse.org/)                                                                   |
-|                            |                                                                                                                                       |
-|                            | 🔗 lubridate: [lubridate.tidyverse.org](https://lubridate.tidyverse.org/)                                                             |
-|                            |                                                                                                                                       |
-|                            | 🔗 readr: [readr.tidyverse.org](https://readr.tidyverse.org/)                                                                         |
 +----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
