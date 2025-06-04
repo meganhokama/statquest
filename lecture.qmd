@@ -1,5 +1,5 @@
 ---
-title: "lecture"
+title: "Lecture Materials"
 format: html
 ---
 
