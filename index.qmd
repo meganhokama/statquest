@@ -9,21 +9,26 @@ editor_options:
 
 This page contains an outline of the topics and content for the workshop.
 
-| <br>Day \# | <br>Workshop Meetings | <br>Topics |
-|:----------------------:|:----------------------:|:----------------------:|
-| <br>Day 1 | <br> 45-min. Lecture | <br>Introduction to Statistics & <br>Research Design |
-|  | <br>15-.min. Break |  |
-|  | <br>30-min. Game Module |  |
-|  | <br>30-min. R-workshop |  |
-| <br>Day 2 | <br>45-min. Lecture | <br>Data Analyses Techniques: descriptive, <br>correlations, t-test, ANOVA |
-|  | <br>15-.min. Break |  |
-|  | <br>30-min. Game Module |  |
-|  | <br>30-min. R-workshop |  |
-| <br>Day 3 | <br>45-min. Lecture | <br> Basic Data Visualization Methods |
-|  | <br>15-.min. Break |  |
-|  | <br>30-min. Game Module |  |
-|  | <br>30-min. R-workshop |  |
-| <br>Day 4 | <br>45-min. Lecture | <br>Communicating Research Findings: <br>Best practices for writing and presenting research |
-|  | <br>15-.min. Break |  |
-|  | <br>30-min. Game Module |  |
-|  | <br>30-min. R-workshop |  |
++----------------------+------------------------+---------------------------------------------------------------------------------------------+
+| <br>Day \#           | <br>Workshop Meetings  | <br>Topics                                                                                  |
++:====================:+:======================:+:===========================================================================================:+
+| <br>Day 1            | 1.  45-min. Lecture    | <br>Introduction to Statistics & <br>Research Design                                        |
+|                      | 2.  15-min Break       |                                                                                             |
+|                      | 3.  30-min R-Workshop  |                                                                                             |
+|                      | 4.  30-min Game Module |                                                                                             |
++----------------------+------------------------+---------------------------------------------------------------------------------------------+
+| <br>Day 2            | 1.  45-min. Lecture    | <br>Data Analyses Techniques: descriptive, <br>correlations, t-test, ANOVA                  |
+|                      | 2.  15-min Break       |                                                                                             |
+|                      | 3.  30-min R-Workshop  |                                                                                             |
+|                      | 4.  30-min Game Module |                                                                                             |
++----------------------+------------------------+---------------------------------------------------------------------------------------------+
+| <br>Day 3            | 1.  45-min. Lecture    | <br> Basic Data Visualization Methods                                                       |
+|                      | 2.  15-min Break       |                                                                                             |
+|                      | 3.  30-min R-Workshop  |                                                                                             |
+|                      | 4.  30-min Game Module |                                                                                             |
++----------------------+------------------------+---------------------------------------------------------------------------------------------+
+| <br>Day 4            | 1.  45-min. Lecture    | <br>Communicating Research Findings: <br>Best practices for writing and presenting research |
+|                      | 2.  15-min Break       |                                                                                             |
+|                      | 3.  30-min R-Workshop  |                                                                                             |
+|                      | 4.  30-min Game Module |                                                                                             |
++----------------------+------------------------+---------------------------------------------------------------------------------------------+
