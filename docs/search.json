@@ -70,7 +70,7 @@
     "href": "course-team.html#instructor-1",
     "title": "StatQuest Team",
     "section": "Instructor",
-    "text": "Instructor\nDr. Kat Cheng (she/her)",
+    "text": "Instructor\nDr. Kat Cheng (she/her) is an Assistant Professor of Educational Psychology and director of the EDP-BioSPHEREs lab https://education.arizona.edu/biospheres-lab).",
     "crumbs": [
       "Workshop information",
       "Teaching team"
@@ -81,7 +81,7 @@
     "href": "course-team.html#research-team",
     "title": "StatQuest Team",
     "section": "Research Team",
-    "text": "Research Team\nMaham Khalid (she/her)",
+    "text": "Research Team\nMaham Khalid (she/her) is a PhD candidate in the Department of Educational Psychology at the University of Arizona.",
     "crumbs": [
       "Workshop information",
       "Teaching team"
@@ -115,6 +115,17 @@
     "title": "Workshop overview",
     "section": "License",
     "text": "License\n\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
+    "crumbs": [
+      "Workshop information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-overview.html#funding",
+    "href": "course-overview.html#funding",
+    "title": "Workshop overview",
+    "section": "Funding",
+    "text": "Funding\nUofA Investment Funds 2024-2026, PI Dr. Cheng\nGPSC REAP grant PI Meg Hokama",
     "crumbs": [
       "Workshop information",
       "Overview"
@@ -181,6 +192,17 @@
     "title": "StatQuest Workshop Overview",
     "section": "Recommended Readings:",
     "text": "Recommended Readings:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
+    "crumbs": [
+      "Workshop information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#funding",
+    "href": "course-syllabus.html#funding",
+    "title": "StatQuest Workshop Overview",
+    "section": "Funding",
+    "text": "Funding\nUofA Investment Funds 2024-2026, PI Dr. Cheng\nGPSC REAP grant PI Meg Hokama",
     "crumbs": [
       "Workshop information",
       "Syllabus"
