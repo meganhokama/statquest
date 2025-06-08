@@ -5,8 +5,8 @@ format: html
 
 # Lectures
 
-Will be added soon!
+Day 1: I[ntroduction to Statistics and Research Design](https://docs.google.com/presentation/d/1HTGb3qn93kUCyOECwbJD1bzfcLdCaA1A/edit?usp=sharing&ouid=114374725466559443043&rtpof=true&sd=true)
 
 # R-scripts
 
-Will be added soon!
+Day 1: [Descriptive Statistics](https://drive.google.com/file/d/1_Dc3yA_JzaK_5X8qubgVLqp-uqk3k9tj/view?usp=sharing)

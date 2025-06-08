@@ -26,7 +26,18 @@
     "href": "twine.html#access-twine-games-here",
     "title": "Twine Game",
     "section": "Access Twine Games Here:",
-    "text": "Access Twine Games Here:\n\nMystery of Stat Manor by Meg Hokama (TBA)\n\n\nCreative Thinking Quest by Daisy Abbott",
+    "text": "Access Twine Games Here:\n\nMystery of Stat Manor by Meg Hokama\n\n\nCreative Thinking Quest by Daisy Abbott",
+    "crumbs": [
+      "Materials",
+      "Twine Game"
+    ]
+  },
+  {
+    "objectID": "twine.html#additional-games-to-try",
+    "href": "twine.html#additional-games-to-try",
+    "title": "Twine Game",
+    "section": "Additional Games to try:",
+    "text": "Additional Games to try:\n\nStatistics & Slimes by evlko",
     "crumbs": [
       "Materials",
       "Twine Game"
@@ -37,7 +48,7 @@
     "href": "lecture.html",
     "title": "Lecture Materials",
     "section": "",
-    "text": "Lectures\nWill be added soon!\n\n\nR-scripts\nWill be added soon!",
+    "text": "Lectures\nDay 1: Introduction to Statistics and Research Design\n\n\nR-scripts\nDay 1: Descriptive Statistics",
     "crumbs": [
       "Materials",
       "Lecture and R-scripts"
