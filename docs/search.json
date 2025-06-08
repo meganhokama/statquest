@@ -147,7 +147,7 @@
     "href": "course-links.html",
     "title": "Useful links",
     "section": "",
-    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\nTexbooks\n🔗 Data Mining Concepts and Techniques\n🔗 Data Mining with R: Learning with Case Studies\n🔗 A R Companion for Introduction to Data Mining\n\n\nPackage documentation\n🔗 ggplot2: ggplot2.tidyverse.org",
+    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\n\n\n\n\nPackages\n🔗 ggplot2: ggplot2.tidyverse.org\n\n\n\n\n\n\nDescriptive Statistics in R\n🔗 Descriptive Statistics: Descriptive Statistics in R by Antoine Soetewey",
     "crumbs": [
       "Workshop information",
       "Useful links"
@@ -202,7 +202,7 @@
     "href": "course-syllabus.html#recommended-readings",
     "title": "StatQuest Workshop Overview",
     "section": "Recommended Readings:",
-    "text": "Recommended Readings:\n\n[Data mining conceptual] Jiawei Han, Jian Pei, Hanghang Tong. Data Mining Concepts and Techniques. 4th edition. Morgan Kaufmann, 2023.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
+    "text": "Recommended Readings:\n\n[Descriptive Statistics] Antoine Soetewey. Descriptive Statistics in R. Blog 2020.\n\nSee the UArizona Libraries loaner technology if you need a loaner laptop.",
     "crumbs": [
       "Workshop information",
       "Syllabus"

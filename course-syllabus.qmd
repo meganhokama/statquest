@@ -27,7 +27,7 @@ By the end of this course, students will:
 
 ## Recommended Readings:
 
--   `[Data mining conceptual]` Jiawei Han, Jian Pei, Hanghang Tong. [Data Mining Concepts and Techniques](./textbooks/hanDataMiningConceptual.pdf). 4th edition. Morgan Kaufmann, 2023.
+-   `[Descriptive Statistics]` Antoine Soetewey. [Descriptive Statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/#introduction). Blog 2020.
 
 
 See the [UArizona Libraries loaner technology](https://lib.arizona.edu/borrow/tech/laptops) if you need a loaner laptop.
