@@ -1,7 +1,7 @@
 # StatQuest Workshop
 
 Workshop website for StatQuest- digital game-based learning for statistics and R-learning, 
-taught by Meg Hokama.
+taught by Dr. Kat Cheng & Meg Hokama.
 
 ## Colors
 
