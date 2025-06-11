@@ -9,8 +9,12 @@ Day 1: I[ntroduction to Statistics and Research Design](https://docs.google.com/
 
 Day 2: [Inferential Statistics](https://docs.google.com/presentation/d/1_oXyH7OVCOvfsXxZM4LOMvCIx93Ax_T-/edit?usp=sharing&ouid=114374725466559443043&rtpof=true&sd=true)
 
+Day 3: [Data Visualization](https://docs.google.com/presentation/d/1e7xHNKYW0YB8pn1Yir1DmkGiztJRERMp/edit?usp=drive_link&ouid=114374725466559443043&rtpof=true&sd=true)
+
 # R-scripts
 
 Day 1: [Descriptive Statistics](https://drive.google.com/file/d/1_Dc3yA_JzaK_5X8qubgVLqp-uqk3k9tj/view?usp=sharing)
 
 Day 2: [Inferential Statistics](https://drive.google.com/drive/folders/1vxIQVVO2xi_8G0eQxy6pKPBVdkV6eGU3?usp=drive_link)
+
+Day 3: [Data Visualization](https://drive.google.com/file/d/1aQpr79kA18z5cIe282j7AfB2Caa3V2M8/view?usp=drive_link)
