@@ -1,15 +1,12 @@
 ---
 title: "Useful links"
+subtitle: "Here are some helpful R resources!"
 ---
 
-|             |                           |
-|-------------|---------------------------|
+| Name | Link |
+|----|----|
 | Posit Cloud | 🔗 <https://posit.cloud/> |
-
-+------------+-----------------------------------------------------------------------+
-| | Packages | | 🔗 ggplot2: [ggplot2.tidyverse.org](https://ggplot2.tidyverse.org/) |
-+------------+-----------------------------------------------------------------------+
-
-+-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
-| | Descriptive Statistics in R | | 🔗 Descriptive Statistics: [Descriptive Statistics in R by Antoine Soetewey](https://statsandr.com/blog/descriptive-statistics-in-r/#introduction) |
-+-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Packages | 🔗[ggplot2.tidyverse.org](https://ggplot2.tidyverse.org/) |
+| Descriptive Statistics in R Blog | 🔗[Descriptive Statistics in R by Antoine Soetewey](https://statsandr.com/blog/descriptive-statistics-in-r/#introduction) |
+| R Color Brewer: Colorblind-friendly palletes | 🔗[The A – Z Of Rcolorbrewer Palette](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) |
+| Data Visualization Book | 🔗[Modern Data Visualization with R by Robert Kabacoff](https://rkabacoff.github.io/datavis/index.html) |

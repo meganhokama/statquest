@@ -114,7 +114,7 @@
     "href": "course-overview.html#workshop-meetings",
     "title": "Workshop overview",
     "section": "Workshop Meetings",
-    "text": "Workshop Meetings\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nWorkshop\nWeaver Science and Engineering Library Rm 212 or Zoom\n6/09 - 6/12 (10 am to 12 pm)",
+    "text": "Workshop Meetings\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nWorkshop\nWeaver Science and Engineering Library Rm 212 or Zoom\nTBD (10 am to 12 pm)",
     "crumbs": [
       "Workshop information",
       "Overview"
@@ -147,7 +147,7 @@
     "href": "course-links.html",
     "title": "Useful links",
     "section": "",
-    "text": "Posit Cloud\n🔗 https://posit.cloud/\n\n\n\n\n\n\nPackages\n🔗 ggplot2: ggplot2.tidyverse.org\n\n\n\n\n\n\nDescriptive Statistics in R\n🔗 Descriptive Statistics: Descriptive Statistics in R by Antoine Soetewey",
+    "text": "Name\nLink\n\n\n\n\nPosit Cloud\n🔗 https://posit.cloud/\n\n\nPackages\n🔗ggplot2.tidyverse.org\n\n\nDescriptive Statistics in R Blog\n🔗Descriptive Statistics in R by Antoine Soetewey\n\n\nR Color Brewer: Colorblind-friendly palletes\n🔗The A – Z Of Rcolorbrewer Palette\n\n\nData Visualization Book\n🔗Modern Data Visualization with R by Robert Kabacoff",
     "crumbs": [
       "Workshop information",
       "Useful links"
@@ -180,7 +180,7 @@
     "href": "course-syllabus.html#workshop-format",
     "title": "StatQuest Workshop Overview",
     "section": "Workshop Format",
-    "text": "Workshop Format\nHybrid, 6/09 to 6/12 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212.  Zoom Link: https://arizona.zoom.us/j/87333040586",
+    "text": "Workshop Format\nHybrid, [Future Dates TBD] 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212.  Zoom Link: [TBA]",
     "crumbs": [
       "Workshop information",
       "Syllabus"
@@ -224,7 +224,7 @@
     "href": "index.html",
     "title": "StatQuest",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nMystery Manor: Chapter I\nIntroduction to Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nMystery Manory: Chapter II\nData Analyses Techniques: descriptive, correlations, t-test, ANOVA\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manor: Chapter III\nBasic Data Visualization Methods\n\n\n4\nThu, Jun 12\nLec 4\nScrip 4\nCreative Thinking Game Quest\nCommunicating Research Findings: Best practices for writing and presenting research",
+    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nMystery Manor: Chapter I\nIntroduction to Descriptive Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nData Management Quest\nData Management\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manory: Chapter II\nData Analyses Techniques: correlations, t-test, ANOVA\n\n\n4\nThu, Jun 12\nLec 4\nScript 4\nMystery Manor: Chapter III\nBasic Data Visualization Methods",
     "crumbs": [
       "Workshop information",
       "Schedule"

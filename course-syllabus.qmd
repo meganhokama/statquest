@@ -7,13 +7,11 @@ format:
 
 ## Course description
 
-Welcome to StatQuest! This course will cover the fundamental descriptive statistics (frequencies, central tendencies, and variability of data) and inferential statistics (t-test and ANOVA*) students will encounter in different fields of research. Students of this course will be introduced to an open-source statistical program to analyze and interpret quantitative data (R). 
+Welcome to StatQuest! This course will cover the fundamental descriptive statistics (frequencies, central tendencies, and variability of data) and inferential statistics (t-test and ANOVA\*) students will encounter in different fields of research. Students of this course will be introduced to an open-source statistical program to analyze and interpret quantitative data (R).
 
 ## Workshop Format
 
-Hybrid, 6/09 to 6/12 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212. <br>
-Zoom Link: https://arizona.zoom.us/j/87333040586
-
+Hybrid, \[Future Dates TBD\] 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212. <br> Zoom Link: \[TBA\]
 
 ## Learning Outcomes
 
@@ -21,14 +19,13 @@ By the end of this course, students will:
 
 -   Describe fundamental concepts in research design and basic statistical techniques used in quantitative research.
 
--   Apply statistical methods using R to organize, analyze, and interpret quantitative data from        sample research scenarios.
+-   Apply statistical methods using R to organize, analyze, and interpret quantitative data from sample research scenarios.
 
--   Create clear and effective data visualizations and research summaries that communicate key          findings using R and best practices for reporting.
+-   Create clear and effective data visualizations and research summaries that communicate key findings using R and best practices for reporting.
 
 ## Recommended Readings:
 
 -   `[Descriptive Statistics]` Antoine Soetewey. [Descriptive Statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/#introduction). Blog 2020.
-
 
 See the [UArizona Libraries loaner technology](https://lib.arizona.edu/borrow/tech/laptops) if you need a loaner laptop.
 
