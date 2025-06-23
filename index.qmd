@@ -7,7 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-This page contains an outline of the topics and content for the workshop.
+This page contains an outline of the topics and content for the workshop. If you would like to sign up for the [**survey or workshop,**]{.underline} please go to this link \[[here](https://uarizona.co1.qualtrics.com/jfe/form/SV_25FhRK3lFq3HQX4)\].
 
 ```{r}
 #| echo: false

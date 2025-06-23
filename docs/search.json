@@ -26,7 +26,7 @@
     "href": "twine.html#access-twine-games-here",
     "title": "Twine Game",
     "section": "Access Twine Games Here:",
-    "text": "Access Twine Games Here:\n\nMystery of Stat Manor by Meg Hokama\n\n\nCreative Thinking Quest by Daisy Abbott",
+    "text": "Access Twine Games Here:\n\nMystery at Stat Manor by Meg Hokama\n\n\nCreative Thinking Quest by Daisy Abbott",
     "crumbs": [
       "Materials",
       "Twine Game"
@@ -48,7 +48,7 @@
     "href": "lecture.html",
     "title": "Lecture Materials",
     "section": "",
-    "text": "Lectures\nDay 1: Introduction to Statistics and Research Design\nDay 2: Inferential Statistics\nDay 3: Data Visualization\nDay 4: Paper Writing\n\n\nR-scripts\nDay 1: Descriptive Statistics\nDay 2: Inferential Statistics\nDay 3: Data Visualization\nDay 4: APA Tables",
+    "text": "Lectures\nTBA\n\n\nR-scripts\nTBA\n\n\nArchive\nWorkshop Version 1",
     "crumbs": [
       "Materials",
       "Lecture and R-scripts"
@@ -103,7 +103,7 @@
     "href": "course-overview.html",
     "title": "Workshop overview",
     "section": "",
-    "text": "This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & Meg Hokama at The University of Arizona. All workshop materials will be posted on this site.\nYou can find the course schedule here.",
+    "text": "This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & Meg Hokama at The University of Arizona. All workshop materials will be posted on this site.\nYou can find the course schedule here. If you would like to sign up for the survey or workshop, please go to this link [here].",
     "crumbs": [
       "Workshop information",
       "Overview"
@@ -180,7 +180,7 @@
     "href": "course-syllabus.html#workshop-format",
     "title": "StatQuest Workshop Overview",
     "section": "Workshop Format",
-    "text": "Workshop Format\nHybrid, [Future Dates TBD] 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212.  Zoom Link: [TBA]",
+    "text": "Workshop Format\nHybrid, [Future Dates TBD] 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212.  Zoom Link: [TBA]. If you would like to sign up for the survey or workshop, please go to this link [here].",
     "crumbs": [
       "Workshop information",
       "Syllabus"
@@ -224,7 +224,7 @@
     "href": "index.html",
     "title": "StatQuest",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the workshop.\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nCreative Thinking Quest\nIntroduction to Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nMystery Manor: Chapter I\nDescriptive Statistics\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manor: Chapter II\nInferential Statistics\n\n\n4\nThu, Jun 12\nLec 4\nScript 4\nMystery Manor: Chapter III\nBasic Data Visualization Methods",
+    "text": "This page contains an outline of the topics and content for the workshop. If you would like to sign up for the survey or workshop, please go to this link [here].\n\n\n\n\n\n\n\n\nDay\nDate\nLecture\nR-Workshop\nTwine Game\nTopic\n\n\n\n\n1\nMon, Jun 9\nLec 1\nScript 1\nCreative Thinking Quest\nIntroduction to Statistics & Research Design\n\n\n2\nTue, Jun 10\nLec 2\nScript 2\nMystery Manor: Chapter I\nDescriptive Statistics\n\n\n3\nWed, Jun 11\nLec 3\nScript 3\nMystery Manor: Chapter II\nInferential Statistics\n\n\n4\nThu, Jun 12\nLec 4\nScript 4\nMystery Manor: Chapter III\nBasic Data Visualization Methods",
     "crumbs": [
       "Workshop information",
       "Schedule"

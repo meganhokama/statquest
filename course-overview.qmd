@@ -4,13 +4,13 @@ title: "Workshop overview"
 
 This is the homepage for StatQuest Workshop taught by Dr. Kat Cheng & [Meg Hokama](https://meganhokama.github.io/website/) at The University of Arizona. All workshop materials will be posted on this site.
 
-You can find the course schedule [here](index.qmd).
+You can find the course schedule [here](index.qmd). If you would like to sign up for the [**survey or workshop,**]{.underline} please go to this link \[[here](https://uarizona.co1.qualtrics.com/jfe/form/SV_25FhRK3lFq3HQX4)\].
 
 ## Workshop Meetings
 
-| Meeting  | Location                                              | Time                        |
-|----------|-------------------------------------------------------|-----------------------------|
-| Workshop | Weaver Science and Engineering Library Rm 212 or Zoom | TBD (10 am to 12 pm)|
+| Meeting | Location | Time |
+|----|----|----|
+| Workshop | Weaver Science and Engineering Library Rm 212 or Zoom | TBD (10 am to 12 pm) |
 
 <br>
 
@@ -18,7 +18,6 @@ You can find the course schedule [here](index.qmd).
 
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png){alt="Creative Commons License"}](https://creativecommons.org/licenses/by-sa/4.0/)\
 This online work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Visit [here](https://github.com/dukestatsciintrods/blob/master/LICENSE.md) for more information about the license.
-
 
 ## Funding
 
