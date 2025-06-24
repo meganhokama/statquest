@@ -5,11 +5,11 @@ format: html
 
 # Lectures
 
-TBA
+Day 1: [Introduction to Statistics & Research](https://docs.google.com/presentation/d/1RNQDN213-EguCn-EOuFwMUsan6379LIV/edit?usp=sharing&ouid=114374725466559443043&rtpof=true&sd=true)
 
 # R-scripts
 
-TBA
+Day 1: [Introduction to R and basic commands](https://drive.google.com/drive/folders/1r4YH7pJpPLsmbn6OIGZAJCjttQsUYi7G?usp=drive_link)
 
 # Archive
 
