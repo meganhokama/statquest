@@ -7,9 +7,13 @@ format: html
 
 Day 1: [Introduction to Statistics & Research](https://docs.google.com/presentation/d/1RNQDN213-EguCn-EOuFwMUsan6379LIV/edit?usp=sharing&ouid=114374725466559443043&rtpof=true&sd=true)
 
+Day 2: [Descriptive Statistics](https://docs.google.com/presentation/d/1BVD9IBbdgoAnjSYkVY_ynT02RCUselAH/edit?rtpof=true)
+
 # R-scripts
 
 Day 1: [Introduction to R and basic commands](https://drive.google.com/drive/folders/1r4YH7pJpPLsmbn6OIGZAJCjttQsUYi7G?usp=drive_link)
+
+Day 2: [Descriptive Statistics & Correlations](https://drive.google.com/drive/u/0/folders/1tFYD9RmGcG9kujPEfhkEa9SsOcDZHG7e)
 
 # Archive
 
