@@ -48,7 +48,7 @@
     "href": "lecture.html",
     "title": "Lecture Materials",
     "section": "",
-    "text": "Lectures\nDay 1: Introduction to Statistics & Research\nDay 2: Descriptive Statistics\n\n\nR-scripts\nDay 1: Introduction to R and basic commands\nDay 2: Descriptive Statistics & Correlations\n\n\nArchive\nWorkshop Version 1",
+    "text": "Lectures\nDay 1: Introduction to Statistics & Research\nDay 2: Descriptive Statistics\nDay 3: Inferential Statistics\n\n\nR-scripts\nDay 1: Introduction to R and basic commands\nDay 2: Descriptive Statistics & Correlations\nDay 3: Inferential Statistics\n\n\nArchive\nWorkshop Version 1",
     "crumbs": [
       "Materials",
       "Lecture and R-scripts"
