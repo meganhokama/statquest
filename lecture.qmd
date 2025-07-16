@@ -11,6 +11,8 @@ Day 2: [Descriptive Statistics](https://docs.google.com/presentation/d/1BVD9IBbd
 
 Day 3: [Inferential Statistics](https://docs.google.com/presentation/d/16bzyYmpipOrxvO9R0_w1VJcDg9hwgJbr/edit?usp=sharing&ouid=114374725466559443043&rtpof=true&sd=true)
 
+Day 4: [Data Viz & APA tables](https://docs.google.com/presentation/d/1Tve44rk6kinsdMWiEN6pJaaNVIkPCDWg/edit?usp=sharing&ouid=114374725466559443043&rtpof=true&sd=true)
+
 # R-scripts
 
 Day 1: [Introduction to R and basic commands](https://drive.google.com/drive/folders/1r4YH7pJpPLsmbn6OIGZAJCjttQsUYi7G?usp=drive_link)
@@ -18,6 +20,8 @@ Day 1: [Introduction to R and basic commands](https://drive.google.com/drive/fol
 Day 2: [Descriptive Statistics & Correlations](https://drive.google.com/drive/u/0/folders/1tFYD9RmGcG9kujPEfhkEa9SsOcDZHG7e)
 
 Day 3: [Inferential Statistics](https://drive.google.com/file/d/1wPxaN0kzuijtiXhRP1ze0bEYPIVuRAsO/view?usp=sharing)
+
+Day 4: [Data Viz & APA tables](https://drive.google.com/file/d/1SlQ6c2ucQDy2LFAuguw57k9bbnCVETzU/view?usp=drive_link)
 
 # Archive
 
