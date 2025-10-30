@@ -11,7 +11,7 @@ Welcome to StatQuest! This course will cover the fundamental descriptive statist
 
 ## Workshop Format
 
-Hybrid, \[Future Dates TBD\] 10 am, to 12 pm, Weaver Science and Engineering Library Rm 212. <br> Zoom Link: \[TBA\]. If you would like to sign up for the [**survey or workshop,**]{.underline} please go to this link \[[here](https://uarizona.co1.qualtrics.com/jfe/form/SV_25FhRK3lFq3HQX4)\].
+Online, \[December 15 - 17\] 10 am, to 12 pm. <br> Zoom Link: \[<https://arizona.zoom.us/j/83968999612?from=addon>\]. If you would like to sign up for the [**survey or workshop,**]{.underline} please press this link \[<https://uarizona.co1.qualtrics.com/jfe/form/SV_25FhRK3lFq3HQX4>\].
 
 ## Learning Outcomes
 
@@ -31,6 +31,6 @@ See the [UArizona Libraries loaner technology](https://lib.arizona.edu/borrow/te
 
 ## Funding
 
-UofA Investment Funds 2024-2026, PI Dr. Cheng
+University of Arizona Provost Investment Fund 2024-2026, PI: Dr. Katherine Cheng and Co-I: Megan Hokama
 
-GPSC REAP grant PI Meg Hokama
+GPSC Research and Project Grant, Megan Hokama
