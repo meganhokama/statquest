@@ -8,9 +8,9 @@ You can find the course schedule [here](index.qmd). If you would like to sign up
 
 ## Workshop Meetings
 
-| Meeting  | Location                                      | Time              |
-|------------------------|------------------------|------------------------|
-| Workshop | [Zoom](https://arizona.zoom.us/j/85725300515) | December 15 - 17  |
+| Meeting  | Location                                      | Time             |
+|----------|-----------------------------------------------|------------------|
+| Workshop | [Zoom](https://arizona.zoom.us/j/85725300515) | December 15 - 17 |
 
 <br>
 

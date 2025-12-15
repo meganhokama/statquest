@@ -3,21 +3,9 @@ title: "Lecture Materials"
 format: html
 ---
 
-# Lectures
+# Lectures & R-Scripts
 
-Day 1: TBA
-
-Day 2: TBA
-
-Day 3: TBA
-
-# R-scripts
-
-Day 1: TBA
-
-Day 2: TBA
-
-Day 3: TBA
+Day 1: <https://drive.google.com/drive/u/1/folders/1w66VH-R6EoLs2vz4__Vfn2dc3l4T6QEJ>
 
 # Archive
 
